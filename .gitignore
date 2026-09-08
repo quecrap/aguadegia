@@ -1,0 +1,97 @@
+# ==============================================================================
+# .gitignore — Repositorio Público Sanitizado: aguadegia
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Credenciales y Archivos de Configuración Sensible de Hardware (IoT / ESP32)
+# ------------------------------------------------------------------------------
+hardware/config.h
+hardware/credentials.h
+hardware/secrets.h
+**/config.h
+!hardware/config.example.h
+*.secret.*
+*.private.*
+
+# ------------------------------------------------------------------------------
+# 2. Variables de Entorno y Claves de Servicios en la Nube
+# ------------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.cert
+*.crt
+*.ovpn
+
+# ------------------------------------------------------------------------------
+# 3. Compilación de Firmware (PlatformIO, Arduino IDE, ESP-IDF)
+# ------------------------------------------------------------------------------
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+output/
+*.bin
+*.hex
+*.elf
+*.o
+*.a
+*.srec
+
+# ------------------------------------------------------------------------------
+# 4. Entornos de Desarrollo (IDEs) y Editores de Código
+# ------------------------------------------------------------------------------
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*~
+
+# ------------------------------------------------------------------------------
+# 5. Dependencias Web / Servidor (Node.js, Python, Dashboard)
+# ------------------------------------------------------------------------------
+node_modules/
+package-lock.json.bak
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+dist/
+.cache/
+
+# ------------------------------------------------------------------------------
+# 6. Archivos del Sistema Operativo y Basura Temporal
+# ------------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ------------------------------------------------------------------------------
+# 7. Registros, Respaldos y Archivos Temporales
+# ------------------------------------------------------------------------------
+logs/
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.patch
+*.zip
+*.tar.gz
+*.7z
