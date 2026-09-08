@@ -118,6 +118,9 @@ El proyecto opera con principios de máxima transparencia financiera, costos uni
 ├────────────────────────────────┼─────────────────┼─────────────────────────────────────┤
 │ Fase 2: Red Centinela (3 Nodos)│ $89,120.00 MXN  │ 3 pozos de alivio, bombeo solar,    │
 │                                │                 │ telemetría celular y red de datos   │
+├────────────────────────────────┼─────────────────┼─────────────────────────────────────┤
+│ Fase 3: Integración Científica │ $148,500.00 MXN │ Enlace CICESE, homologación CONAGUA │
+│         y Dominio Público      │                 │ y portal abierto para la ciudadanía │
 └────────────────────────────────┴─────────────────┴─────────────────────────────────────┘
 ```
 
@@ -129,7 +132,7 @@ El proyecto opera con principios de máxima transparencia financiera, costos uni
 * **Activo de cuadrilla (Motobomba 6.5 HP autocebante y mangueras):** $4,300 MXN.
 * **Materiales de pozo (PVC 4" Céd. 40, bentonita sódica, grava sílica):** $3,120 MXN.
 * **Hardware de telemetría IoT Centinela ESP32 (sensores, gabinete IP65, fuente):** $1,123.20 MXN.
-* **Almacenamiento sanitario (depósito 450L grado alimenticio + accesorios plomería):** $3,816.80 MXN.
+* **Almacenamiento sanitario (depósito 450L grado alimenticio + accesorios plomería):** $4,816.80 MXN.
 * **Mano de obra cuadrilla especializada (perforación, empaque, aforo y calibración):** $7,000 MXN.
 * **Presupuesto consolidado: $39,710.00 MXN.**
 
@@ -143,6 +146,13 @@ El proyecto opera con principios de máxima transparencia financiera, costos uni
 * **Infraestructura de datos abiertos (Servidor MQTT/Node-RED/InfluxDB por 12 meses):** $3,890.40 MXN.
 * **Reactivos de bioensayos ecotoxicológicos de campo y control de calidad:** $2,200 MXN.
 * **Presupuesto consolidado: $89,120.00 MXN.**
+
+#### Fase 3: Integración CICESE, Homologación CONAGUA y Portal de Dominio Público ($148,500 MXN)
+* **Portal Web Comunitario y API Pública de Dominio Público:** Visualizador interactivo de mapas hidrológicos (GeoJSON/Leaflet), API REST sin autenticación para investigadores y descarga libre de series de tiempo (CSV/JSON).
+* **Alianza Científica con CICESE (Centro de Investigación Científica y de Educación Superior de Ensenada):** Transmisión automatizada de datos piezométricos y geoquímicos para alimentar los modelos numéricos de flujo y balance del Acuífero Tijuana (0201).
+* **Homologación Técnica y Reportes ante CONAGUA:** Integración de los micro-pozos como estaciones piezométricas ciudadanas de monitoreo somero, reportando niveles y calidad bajo estándares compatibles con RENAMECA y el Sistema Nacional de Información del Agua (SINA).
+* **Análisis Isotópicos de Trazabilidad (δ18O / δ2H):** Determinación analítica para diferenciar con exactitud científica el porcentaje de agua proveniente de fugas de la red de agua potable (Río Colorado) vs. infiltración meteórica natural vs. intrusión salina.
+* **Presupuesto consolidado: $148,500.00 MXN.**
 
 ---
 

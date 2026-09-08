@@ -14,7 +14,8 @@
 | :--- | :---: | :---: | :--- |
 | **Fase 1: Consolidación Piloto** | **$39,710.00 MXN** | ~$2,206 USD | Validación analítica EMA (NOM-127), purificación RO Rotoplas, kit IoT y activos base de perforación. |
 | **Fase 2: Red Centinela (3 Nodos)** | **$89,120.00 MXN** | ~$4,951 USD | Habilitación de 3 micro-pozos en laderas, energía solar 100% autónoma, telemetría celular y datos abiertos. |
-| **Inversión Total Acumulada** | **$128,830.00 MXN** | ~$7,157 USD | Red comunitaria piloto resiliente ante deslaves y desabasto hídrico. |
+| **Fase 3: Integración CICESE, CONAGUA & Dominio Público** | **$148,500.00 MXN** | ~$8,250 USD | Portal web público, API REST libre, convenios de modelación numérica con CICESE y registro piezométrico CONAGUA. |
+| **Inversión Total Acumulada** | **$277,330.00 MXN** | ~$15,407 USD | Red comunitaria piloto y científica resiliente ante deslaves y desabasto hídrico en Tijuana. |
 
 *\*Tipo de cambio de referencia: ~$18.00 MXN / USD.*
 
@@ -99,8 +100,8 @@ Depósito de almacenamiento temporal del agua extraída y tren de válvulas de p
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | SAN-01 | Tinaco / Depósito vertical de polietileno grado alimenticio bicapa 450 Litros con tapa hermética | Home Depot Tijuana / Rotoplas | 1 unidad | $2,150.00 | $2,150.00 |
 | SAN-02 | Bomba periférica presurizadora automática compacta 1/2 HP para alimentación al tren RO | Pretul / Truper (Ferretería local) | 1 unidad | $980.00 | $980.00 |
-| SAN-03 | Válvulas check antirretorno de bronce 1", manómetros de glicerina 0-60 PSI, codos y niple de PVC | Fix Ferreterías | 1 lote | $686.80 | $686.80 |
-| **Subtotal** | **Partida 1.6: Almacenamiento y Conexión Sanitaria** | | | | **$3,816.80** |
+| SAN-03 | Kit de plomería sanitaria, válvulas check antirretorno bronce 1", manómetros glicerina, niples y codos | Fix Ferreterías / Plomería Industrial | 1 lote | $1,686.80 | $1,686.80 |
+| **Subtotal** | **Partida 1.6: Almacenamiento y Conexión Sanitaria** | | | | **$4,816.80** |
 
 ---
 
@@ -123,7 +124,7 @@ Partida 1.2: Tren de Purificación Ósmosis Rotoplas 300100 + UV ...  $5,850.00 
 Partida 1.3: Equipo Activo Reutilizable de Cuadrilla .............  $4,300.00 MXN
 Partida 1.4: Materiales Sanitarios de Micro-pozo .................  $3,120.00 MXN
 Partida 1.5: Hardware de Telemetría IoT Centinela ESP32 ..........  $1,123.20 MXN
-Partida 1.6: Almacenamiento Sanitario y Plomería .................  $3,816.80 MXN
+Partida 1.6: Almacenamiento Sanitario y Plomería .................  $4,816.80 MXN
 Partida 1.7: Mano de Obra Especializada de Cuadrilla .............  $7,000.00 MXN
 ─────────────────────────────────────────────────────────────────────────────────
 TOTAL CONSOLIDADO FASE 1 ......................................... $39,710.00 MXN
@@ -170,7 +171,44 @@ TOTAL CONSOLIDADO FASE 2 ......................................... $89,120.00 MX
 
 ---
 
+## 🏛️ FASE 3: Integración Científica CICESE, Homologación CONAGUA y Portal de Dominio Público
+
+**Monto Total Fase 3: $148,500.00 MXN**
+
+El objetivo de la Fase 3 es conectar la red de monitoreo ciudadano con la comunidad científica de alto nivel (**CICESE**) y los organismos de gestión de cuenca (**CONAGUA**), liberando todos los datos hidrológicos y de calidad del agua al **dominio público** mediante una plataforma digital abierta y gratuita.
+
+### Desglose por Partidas — Fase 3
+
+| Partida / Concepto | Especificaciones Técnicas y Alcance | Cantidad | Costo Unitario | Total (MXN) |
+| :--- | :--- | :---: | :---: | :---: |
+| **3.1 Plataforma Web de Dominio Público & API Abierta** | Desarrollo e implementación del portal ciudadano: mapa GIS en tiempo real (Leaflet/MapLibre), capas litológicas, semáforos de calidad, API REST pública sin restricciones y módulo de descarga libre en CSV, JSON y GeoJSON. | 1 plataforma integral | $24,500.00 | $24,500.00 |
+| **3.2 Infraestructura Cloud para Datos Abiertos (24 Meses)** | Servidor virtual dedicado (VPS Linux/Docker) por 2 años: InfluxDB para series temporales, PostgreSQL/PostGIS, broker MQTT público seguro (TLS) y respaldos redundantes automatizados ($750 MXN/mes). | 24 meses de hosting | $750.00 / mes | $18,000.00 |
+| **3.3 Nodos Piezométricos de Monitoreo Científico (5 Estaciones)** | 5 estaciones IoT de nivel estático/dinámico, conductividad y temperatura calibradas para registro cada 15 minutos y transmisión a modelos numéricos de CICESE ($3,900 c/u con panel solar). | 5 nodos científicos | $3,900.00 | $19,500.00 |
+| **3.4 Instrumental de Calibración de Campo Trazable CENAM** | Medidor multiparamétrico profesional de campo (pH, CE, TDS, Temperatura) con kit de soluciones estándar y certificado de calibración trazable a patrones nacionales para control de calidad. | 1 equipo multiparámetro | $16,500.00 | $16,500.00 |
+| **3.5 Campaña Isotópica de Procedencia Hídrica (δ18O / δ2H)** | Batería analítica isotópica en 6 puntos clave para trazar la huella del agua (distinción inequívoca entre fugas de agua potable del Río Colorado, agua meteórica local e intrusión salina) en colaboración académica. | 6 análisis isotópicos | $6,333.33 | $38,000.00 |
+| **3.6 Expediente Técnico y Homologación ante CONAGUA** | Protocolización de carpetas piezométricas e hidrogeológicas conforme a las directrices de la Red Nacional de Medición de Calidad del Agua (RENAMECA) y el Sistema Nacional de Información del Agua (SINA). | 1 expediente integral | $20,000.00 | $20,000.00 |
+| **3.7 Talleres Comunitarios de Ciencia Abierta y Gobernanza** | Jornadas de capacitación en colonias vulnerables sobre lectura de semáforos hídricos, prevención de riesgos por deslave y asambleas de comités ciudadanos de agua. | 4 talleres barriales | $3,000.00 | $12,000.00 |
+| **TOTAL FASE 3** | **Integración Científica, CONAGUA y Datos Abiertos** | | | **$148,500.00** |
+
+---
+
+### 📌 Resumen Contable Fase 3
+
+```
+Partida 3.1: Plataforma Web de Dominio Público & API Abierta ....... $24,500.00 MXN
+Partida 3.2: Infraestructura Cloud Datos Abiertos (24 Meses) ....... $18,000.00 MXN
+Partida 3.3: Nodos Piezométricos Científicos (5 Estaciones) ........ $19,500.00 MXN
+Partida 3.4: Instrumental de Calibración Trazable CENAM ............ $16,500.00 MXN
+Partida 3.5: Campaña Isotópica de Procedencia (δ18O / δ2H) ......... $38,000.00 MXN
+Partida 3.6: Expediente Técnico y Homologación CONAGUA ............. $20,000.00 MXN
+Partida 3.7: Talleres Comunitarios de Ciencia Abierta .............. $12,000.00 MXN
+─────────────────────────────────────────────────────────────────────────────────
+TOTAL CONSOLIDADO FASE 3 ......................................... $148,500.00 MXN
+```
+
+---
+
 ## 🛡️ Principios de Ejecución y Garantía de Transparencia
 1. **Evidencia Fotográfica y Facturas en Línea:** Cada compra realizada se respalda con factura comercial (CFDI) y fotografía del equipo instalado, accesible a los financiadores y la comunidad.
 2. **Sin Honorarios Administrativos Ocultos:** El 100% de los fondos se destina exclusivamente a materiales físicos, equipos certificados, análisis de laboratorio acreditado y jornales directos de mano de obra en campo.
-3. **Hardware y Software Auditables:** Todo el firmware, esquemáticos y datos generados por los nodos son de acceso público irrestricto.
+3. **Hardware y Software Auditables:** Todo el firmware, esquemáticos y datos generados por los nodos son de acceso público irrestricto en el dominio público.
