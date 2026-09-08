@@ -85,21 +85,26 @@ El agua subterránea somera extraída se divide de manera inteligente para maxim
 
 ---
 
-## 📊 3. Datos Validados en Campo — Pozo Piloto Caso 001
+## 📊 3. Datos Observados en Campo — Caso Piloto 001
 
-Los datos experimentales obtenidos durante la operación del primer prototipo en la zona de **Playas de Tijuana** confirman la viabilidad y repetibilidad del modelo:
+El Caso Piloto 001 (ubicado en la zona general de **Playas de Tijuana, B.C.**) documenta observaciones directas de una experiencia real de campo, diferenciando con rigor científico entre datos observados, hipótesis y próximas etapas de instrumentación:
 
-| Variable / Parámetro | Valor de Campo Registrado | Observaciones / Metodología de Medición |
-| :--- | :--- | :--- |
-| **Zona General** | **Playas de Tijuana, B.C.** | Zona costera con litología de arenas finas y lentes de arcilla |
-| **Profundidad del Pozo** | **8.5 metros** | Perforación manual asistida por hidrocirulación (AquaDrill) |
-| **Nivel Estático de Agua** | **4.2 metros** | Medición piezométrica con sensor ultrasónico JSN-SR04T |
-| **Caudal Continuo Sostenido** | **~600 Litros / día** | Extracción lenta y constante (~25 L/h) evitando arrastre de limos |
-| **Calidad del Agua Cruda (TDS)** | **420 – 480 ppm** | Conductividad estable; libre de intrusión salina oceánica directa |
-| **Calidad Post-Tratamiento (RO)**| **38 – 48 ppm** | Reducción de sólidos disueltos >90% con equipo Rotoplas 300100 |
-| **Coliformes Totales y Fecales** | **Ausentes / No Detectable** | Tras tren de ósmosis y desinfección UV (NOM-127-SSA1-2021) |
-| **Ensayos Ecotoxicológicos** | **Sin toxicidad detectable** | Bioensayos de elongación radicular (*Lactuca sativa*): germinación >95% |
-| **Efecto en la Ladera** | **Alivio de humedad local** | Reducción medible del nivel piezométrico circundante en talud |
+| Observación / Parámetro | Resultado de Campo | Metodología / Estado |
+| :--- | :---: | :--- |
+| **Zona General** | **Playas de Tijuana, B.C.** | Zona costera; litología aluvial y horizontes someros de ladera |
+| **Profundidad alcanzada** | **~7.10 m** | Perforación asistida de bajo impacto (AquaDrill) |
+| **Agua observada en reposo** | **~5.60 m** bajo superficie | Nivel freático estático observado en sondeo |
+| **Columna de agua aproximada** | **~1.50 m** | Columna hídrica dentro de la perforación |
+| **Entrada observada** | **Parte inferior** | Infiltración libre por estrato basal |
+| **Material en el fondo** | **Grava pequeña y suelta** | Estrato permeable favorable para filtro anular |
+| **Sistema de extracción de prueba** | **Bomba eléctrica de 12 V** | Extracción directa de bajo voltaje |
+| **Volumen observado en prueba** | **~600 L en <24 h** | Volumen acumulado en ciclos de bombeo |
+| **Recuperación observada** | **Del orden de segundos** | Recarga rápida del nivel tras cese de bombeo |
+| **Prueba formal de rendimiento sostenible** | **Pendiente** | Aforo normado programado con instrumentación continua |
+| **Análisis completo de calidad (NOM-127)** | **Pendiente** | Batería analítica en laboratorio EMA a financiar en Fase 1 |
+| **Monitoreo continuo IoT** | **Próxima etapa** | Despliegue del nodo Centinela ESP32 con corte automático |
+
+> **Principio rector:** *Encontrar agua no significa automáticamente encontrar agua potable. Primero medimos, caracterizamos y analizamos con rigor de laboratorio; después decidimos su aprovechamiento.*
 
 ---
 
