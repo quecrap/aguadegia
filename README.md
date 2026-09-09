@@ -116,7 +116,7 @@ Registro fotográfico cronológico del Caso Piloto 001 en Playas de Tijuana:
 | **01. Reconocimiento Geotécnico** | ![Reconocimiento Farallón](docs/img/01_reconocimiento_farallon_lloraderos.jpg) | **Lectura de Farallón y Lloraderos (2022):** Detección de horizontes húmedos y filtración a 5–7 m en corte natural de ladera. |
 | **02. Perforación AquaDrill** | ![Perforación Hidráulica](docs/img/02_perforacion_aquadrill_2022.jpg) | **Perforación Frugal por Jetting Hidráulico (2022):** Sarta ligera y motobomba de alta presión para acceso en terrenos estrechos. |
 | **03. Sello Sanitario Normado** | ![Sello Sanitario](docs/img/03_brocal_sello_sanitario.jpg) | **Brocal y Sello Sanitario NOM-003/004:** Sellado anular con bentonita sódica de alta expansión para aislar escorrentías superficiales. |
-| **04. Monitoreo e Inspección** | ![Monitoreo de Pozo](docs/img/04_monitoreo_pozo_2025.jpg) | **Inspección y Aforo Continuo (2025):** Verificación de nivel freático, columna de agua y ausencia de colapso anular. |
+| **04. Aforo y Piezometría** | ![Aforo y Piezometría](docs/img/04_aforo_nivel_columna.jpg) | **Sonda y Aforo de Nivel Freático (2026):** Verificación directa de columna de agua (228 cm) y cota de sedimentos (276 cm). |
 
 ---
 
@@ -202,7 +202,7 @@ aguadegia/
 │       ├── 01_reconocimiento_farallon_lloraderos.jpg
 │       ├── 02_perforacion_aquadrill_2022.jpg
 │       ├── 03_brocal_sello_sanitario.jpg
-│       └── 04_monitoreo_pozo_2025.jpg
+│       └── 04_aforo_nivel_columna.jpg
 ├── hardware/
 │   └── config.example.h            # Plantilla C++ con pinout ESP32, MQTT y umbrales sin credenciales
 └── lab/
