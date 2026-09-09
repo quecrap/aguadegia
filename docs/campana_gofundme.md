@@ -28,6 +28,9 @@ Como una búsqueda.
 
 Todo comenzó con una pequeña perforación.
 
+![Perforación en patio estrecho](img/clip_perforacion_patio.webp)
+*Perforación en espacio confinado (patio urbano) mediante sarta ligera y jetting hidráulico.*
+
 No sabíamos exactamente qué íbamos a encontrar.
 
 Aproximadamente a **5.60 metros bajo la superficie apareció agua**.
@@ -49,6 +52,9 @@ Detuvimos la extracción.
 Y entonces ocurrió algo que llamó nuestra atención:
 
 ## **el agua regresó.**
+
+![Extracción continua de agua](img/clip_chorro_agua_aquadrill.webp)
+*Aforo continuo: chorro ininterrumpido de agua somera recuperándose a gran velocidad.*
 
 En cuestión de segundos.
 
@@ -372,7 +378,23 @@ O quizá sea el primero de muchos.
 
 **Todavía no lo sabemos.**
 
-Y precisamente por eso vale la pena investigarlo.
+---
+
+# 🎬 Documental Completo: Registro Cronológico de Campo (05:28 min)
+
+Para transparencia técnica total frente a la comunidad, donantes e investigadores, consolidamos el registro audiovisual sin interrupciones del Caso Piloto 001:
+
+![Bioensayo con macroinvertebrados](img/clip_bioensayo_langostinos.webp)
+*Bioensayo in situ: organismos vivos macroinvertebrados nadando sin toxicidad aguda en el agua extraída.*
+
+### Estructura y Capítulos del Video:
+* **00:00 - 01:25 | Contexto Geotécnico:** Lloraderos en laderas, estratos arcillosos saturados y antecedentes en Playas de Tijuana.
+* **01:25 - 03:02 | Perforación en Espacio Confinado:** Montaje del sistema frugal AquaDrill, sarta ligera y descenso por jetting hidráulico en patio urbano.
+* **03:02 - 04:10 | Entubado y Extracción:** Casing de ademe ranurado, sello anular, conexión de cabezal y purga con motobomba y bomba 12V.
+* **04:10 - 04:55 | Aforo y Dinámica de Recarga:** Caudal continuo, recuperación inmediata del nivel freático y medición volumétrica.
+* **04:55 - 05:28 | Biofiltración y Bioensayo en Vivo:** Derivación a tren de recirculación y validación con macroinvertebrados vivos en cubeta (*Procambarus clarkii*).
+
+*(El archivo master en 1080p y su versión web optimizada de ~95 MB se encuentran disponibles para descarga directa y streaming comunitario).*
 
 ---
 

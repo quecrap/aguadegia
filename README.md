@@ -119,6 +119,24 @@ Registro fotográfico cronológico del Caso Piloto 001 en Playas de Tijuana:
 | **04. Macromedición de Caudal** | ![Macromedidor Digital K24](docs/img/04_macromedidor_flujo_k24.jpg) | **Medidor de Turbina Digital K24:** Registro acumulado en línea hidráulica (>24,500 L extraídos en pruebas iniciales de aforo). |
 | **05. Aforo y Piezometría** | ![Aforo y Piezometría](docs/img/05_aforo_nivel_columna.jpg) | **Sonda y Aforo de Nivel Freático (2026):** Verificación directa con sonda de columna de agua (228 cm) y cota de sedimentos (276 cm). |
 
+### 4.1 Evidencia en Movimiento y Documental Técnico (~6 Minutos)
+
+Para auditoría técnica de donantes e investigadores, el archivo de campo documenta el ciclo completo en video continuo (`docs/campana_gofundme.md`):
+
+| Perforación en Patio (AquaDrill) | Caudal y Aforo Continuo | Bioensayo Acuático en Vivo |
+| :---: | :---: | :---: |
+| ![Perforación en Patio](docs/img/clip_perforacion_patio.webp) | ![Chorro de Agua Constante](docs/img/clip_chorro_agua_aquadrill.webp) | ![Bioensayo con Langostinos](docs/img/clip_bioensayo_langostinos.webp) |
+| *Perforación vertical por jetting en patio confinado.* | *Aporte hídrico continuo (~2 L/min).* | *Organismos vivos en agua cruda extraída.* |
+
+> 🎬 **Documental Cronológico Maestro (5 min 28 s):** Registro sin cortes comerciales que integra:
+> 1. Reconocimiento de lloraderos geológicos en ladera.
+> 2. Montaje y penetración de sarta AquaDrill en patio urbano.
+> 3. Extracción de núcleos arcillosos impermeables de tapón.
+> 4. Bombeo de purga y estabilización de columna hídrica.
+> 5. Prueba de aforo continuo y bioensayo ecotoxicológico inmediato con langostinos de agua dulce (*Procambarus clarkii*).
+> 
+> *Detalle de marcas de tiempo y enlaces disponible en [`docs/campana_gofundme.md`](docs/campana_gofundme.md).*
+
 ---
 
 ## 💰 5. Metas de Financiamiento y Presupuesto
@@ -198,13 +216,16 @@ aguadegia/
 ├── docs/
 │   ├── campana_gofundme.md         # Documento maestro para campaña de recaudación comunitaria
 │   ├── presupuesto_detallado.md    # Tablas desglosadas con precios oficiales verificados
-│   └── img/                        # Galería fotográfica de campo
+│   └── img/                        # Galería fotográfica y clips animados de campo
 │       ├── portada_pozo_actual_2026.jpg
 │       ├── 01_reconocimiento_farallon_lloraderos.jpg
 │       ├── 02_perforacion_aquadrill_2022.jpg
 │       ├── 03_boca_pozo_motobomba_2022.jpg
 │       ├── 04_macromedidor_flujo_k24.jpg
-│       └── 05_aforo_nivel_columna.jpg
+│       ├── 05_aforo_nivel_columna.jpg
+│       ├── clip_perforacion_patio.webp
+│       ├── clip_chorro_agua_aquadrill.webp
+│       └── clip_bioensayo_langostinos.webp
 ├── hardware/
 │   └── config.example.h            # Plantilla C++ con pinout ESP32, MQTT y umbrales sin credenciales
 └── lab/
