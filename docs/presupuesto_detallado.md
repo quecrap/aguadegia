@@ -19,11 +19,35 @@
 
 *\*Tipo de cambio de referencia: ~$18.00 MXN / USD.*
 
+### 📊 Representación Visual de Metas de Financiamiento
+![Escalabilidad y Metas de Financiamiento por Fases](img/grafico_metas_acumuladas.svg)
+
+```mermaid
+pie title Distribución Global de la Inversión (3 Fases - $277,330 MXN)
+    "Fase 1: Consolidación Piloto" : 39710
+    "Fase 2: Red Centinela (3 Nodos)" : 89120
+    "Fase 3: Integración Científica & CONAGUA" : 148500
+```
+
 ---
 
 ## 💧 FASE 1: Consolidación Técnica, Certificación Sanitaria y Tren 80/20
 
 **Monto Total Fase 1: $39,710.00 MXN**
+
+### 📊 Desglose Visual de la Inversión en Fase 1
+![Distribución Financiera Fase 1](img/grafico_presupuesto_fase1.svg)
+
+```mermaid
+pie title Asignación Presupuestal Fase 1 ($39,710 MXN)
+    "Laboratorio EMA NOM-127 (34.0%)" : 13500
+    "Mano de Obra Cuadrilla (17.6%)" : 7000
+    "Tren Purificación RO + UV (14.7%)" : 5850
+    "Almacenamiento & Plomería (12.1%)" : 4816.80
+    "Equipo Activo Cuadrilla (10.8%)" : 4300
+    "Materiales Micro-pozo (7.9%)" : 3120
+    "Hardware IoT ESP32 (2.8%)" : 1123.20
+```
 
 ### Partida 1.1: Batería Analítica y Certificación de Laboratorio Acreditado EMA
 La potabilidad del agua no se asume; se demuestra mediante informe de laboratorio avalado por la Entidad Mexicana de Acreditación (EMA) bajo la norma oficial mexicana **NOM-127-SSA1-2021**.

@@ -89,57 +89,53 @@ El agua subterránea somera extraída se divide de manera inteligente para maxim
 
 ## 📊 3. Datos Observados en Campo — Caso Piloto 001
 
-El Caso Piloto Experimental 001 (documentado en el sector poniente / vertiente costera de Tijuana, B.C.) se conduce bajo estricto protocolo de investigación comunitaria, salvaguarda de predios privados y mitigación de riesgos de ladera sin fines de confrontación ni explotación masiva:
+El Caso Piloto 001 (ubicado en la zona general de **Playas de Tijuana, B.C.**) documenta observaciones directas de una experiencia real de campo:
 
 | Observación / Parámetro | Resultado de Campo | Metodología / Estado |
 | :--- | :---: | :--- |
-| **Zona de Investigación** | **Sector Poniente / Cuenca Costera (Tijuana)** | Zona aluvial de ladera; monitoreo piezométrico de alivio |
-| **Profundidad del sondeo** | **8.0 a 9.0 m** | Perforación asistida por jetting hidráulico ligero (AquaDrill) |
+| **Zona General** | **Playas de Tijuana, B.C.** | Zona costera; litología aluvial y horizontes someros de ladera |
+| **Profundidad del pozo** | **8.0 a 9.0 m** | Perforación asistida por jetting hidráulico (AquaDrill) |
 | **Nivel freático en reposo** | **~5.60 m** bajo superficie | Nivel freático estático observado en sondeo |
 | **Columna de agua en pozo** | **~1.50 – 2.00 m** | Columna hídrica dentro del ademe ranurado |
-| **Régimen de alivio somero** | **~2.0 L/min (ciclos intermitentes)** | Extracción lenta y controlada para descompresión de ladera |
+| **Aporte hídrico continuo** | **~2.0 L/min (~600 L/día)** | Régimen de recarga sostenido en ciclos intermitentes |
 | **Estrato permeable basal** | **Grava limpia y arena gruesa** | Estrato permeable favorable para filtro anular |
-| **Bioensayos ecotoxicológicos** | **Sin toxicidad aguda observada** | Ensayos biológicos de campo con macroinvertebrados (48h/96h) |
+| **Bioensayos ecotoxicológicos** | **Sin toxicidad aguda observada** | Ensayos biológicos preliminares de campo (48h y 96h) |
 | **Certificación completa EMA (NOM-127)** | **Programada en Fase 1** | Muestreo para metales pesados, fisicoquímica y microbiología |
 
-> 🔒 **Protocolo de Discreción Territorial y No Controversia:**  
-> Por respeto a la privacidad de predios particulares y para salvaguardar el desarrollo pacífico y riguroso de la investigación científica, **no se divulgan coordenadas catastrales, domicilios ni datos identificables de inmuebles**. Este proyecto se enfoca estrictamente en la ciencia del drenaje de alivio de laderas inestables y tecnología frugal de bajo caudal, sin fines de lucro ni conflicto con redes formales.
-
-> **Principio rector:** *Encontrar agua no significa automáticamente encontrar agua potable. Primero medimos, caracterizamos y analizamos con rigor de laboratorio; después decidimos su aprovechamiento responsable.*
+> **Principio rector:** *Encontrar agua no significa automáticamente encontrar agua potable. Primero medimos, caracterizamos y analizamos con rigor de laboratorio; después decidimos su aprovechamiento.*
 
 ---
 
-## 📸 4. Galería Visual de Campo (Evidencia Técnica)
+## 📸 4. Galería Visual de Campo (Evidencia Documental)
 
-Registro fotográfico técnico del sondeo de campo (Caso Piloto 001):
+Registro fotográfico cronológico del Caso Piloto 001 en Playas de Tijuana:
 
 | Etapa / Momento | Fotografía | Descripción Técnica |
 | :--- | :---: | :--- |
 | **Estado Actual (2026)** | ![Estado Actual 2026](docs/img/portada_pozo_actual_2026.jpg) | **Operación e Integración Actual (2026):** Pozo consolidado, brocal elevado y gabinete de control listo para sensorización continua. |
 | **01. Reconocimiento Geotécnico** | ![Reconocimiento Farallón](docs/img/01_reconocimiento_farallon_lloraderos.jpg) | **Lectura de Farallón y Lloraderos (2022):** Detección de horizontes húmedos y filtración a 5–7 m en corte natural de ladera. |
-| **02. Boca de Pozo y Succión** | ![Boca de Pozo y Motobomba](docs/img/03_boca_pozo_motobomba_2022.jpg) | **Ademe Superficial y Conexión de Bombeo (2022):** Salida de ademe a ras de suelo en área confinada, múltiple con válvula de corte y acople a motobomba ligera. |
-| **03. Aforo y Piezometría** | ![Aforo y Piezometría](docs/img/05_aforo_nivel_columna.jpg) | **Sonda y Aforo de Nivel Freático (2026):** Verificación directa con sonda de columna de agua (228 cm) y cota de sedimentos (276 cm). |
+| **02. Perforación AquaDrill** | ![Perforación Hidráulica](docs/img/02_perforacion_aquadrill_2022.jpg) | **Perforación Frugal por Jetting Hidráulico (2022):** Sarta ligera y motobomba de alta presión para acceso en terrenos estrechos. |
+| **03. Boca de Pozo y Succión** | ![Boca de Pozo y Motobomba](docs/img/03_boca_pozo_motobomba_2022.jpg) | **Ademe Superficial y Conexión de Bombeo (2022):** Salida de ademe a ras de suelo en invernadero, múltiple con válvula de corte y acople a motobomba. |
+| **04. Macromedición de Caudal** | ![Macromedidor Digital K24](docs/img/04_macromedidor_flujo_k24.jpg) | **Medidor de Turbina Digital K24:** Registro acumulado en línea hidráulica (>24,500 L extraídos en pruebas iniciales de aforo). |
+| **05. Aforo y Piezometría** | ![Aforo y Piezometría](docs/img/05_aforo_nivel_columna.jpg) | **Sonda y Aforo de Nivel Freático (2026):** Verificación directa con sonda de columna de agua (228 cm) y cota de sedimentos (276 cm). |
 
-### 4.1 Registro Documental en Video (YouTube)
+### 4.1 Evidencia en Movimiento y Documental Técnico (~6 Minutos)
 
-El archivo de campo documenta el ciclo completo de perforación somera, aforo de bajo caudal y validación biológica en video:
-
-[![Ver Documental Completo en YouTube](docs/img/miniatura_documental_youtube.jpg)](https://www.youtube.com/watch?v=TU_ID_DE_YOUTUBE)  
-*(Haz clic en la imagen para abrir el documental en YouTube — Archivo fuente: `videocompleto.mp4`)*
+Para auditoría técnica de donantes e investigadores, el archivo de campo documenta el ciclo completo en video continuo (`docs/campana_gofundme.md`):
 
 | Perforación en Patio (AquaDrill) | Caudal y Aforo Continuo | Bioensayo Acuático en Vivo |
 | :---: | :---: | :---: |
 | ![Perforación en Patio](docs/img/clip_perforacion_patio.webp) | ![Chorro de Agua Constante](docs/img/clip_chorro_agua_aquadrill.webp) | ![Bioensayo con Langostinos](docs/img/clip_bioensayo_langostinos.webp) |
 | *Perforación vertical por jetting en patio confinado.* | *Aporte hídrico continuo (~2 L/min).* | *Organismos vivos en agua cruda extraída.* |
 
-> 🎬 **Estructura del Registro Audiovisual (~4 minutos):**
-> 1. Contexto geotécnico: saturación freática y riesgo de deslizamiento en laderas urbanas.
-> 2. Operación de perforación ligera por inyección hidráulica en espacio confinado.
-> 3. Acople de ademe ranurado y filtro de grava sílica.
-> 4. Prueba de alivio hidráulico a bajo caudal (<2 L/min) para estabilización geotécnica.
-> 5. Bioensayo ecotoxicológico en campo con macroinvertebrados vivos (*Procambarus clarkii*).
+> 🎬 **Documental Cronológico Maestro (5 min 28 s):** Registro sin cortes comerciales que integra:
+> 1. Reconocimiento de lloraderos geológicos en ladera.
+> 2. Montaje y penetración de sarta AquaDrill en patio urbano.
+> 3. Extracción de núcleos arcillosos impermeables de tapón.
+> 4. Bombeo de purga y estabilización de columna hídrica.
+> 5. Prueba de aforo continuo y bioensayo ecotoxicológico inmediato con langostinos de agua dulce (*Procambarus clarkii*).
 > 
-> *Para consultar la ficha de edición y minutaje, ver [`docs/campana_gofundme.md`](docs/campana_gofundme.md).*
+> *Detalle de marcas de tiempo y enlaces disponible en [`docs/campana_gofundme.md`](docs/campana_gofundme.md).*
 
 ---
 
@@ -164,7 +160,13 @@ El proyecto opera con principios de máxima transparencia financiera, costos uni
 ```
 *\*Tipo de cambio de referencia: ~$18.50 MXN / USD.*
 
-### 5.1 Desglose Sintético por Fases
+### 5.1 Representación Visual del Presupuesto
+
+| Metas de Financiamiento Acumuladas | Distribución de Inversión Fase 1 ($39,710 MXN) |
+| :---: | :---: |
+| [![Metas Acumuladas](docs/img/grafico_metas_acumuladas.svg)](docs/presupuesto_detallado.md) | [![Distribución Fase 1](docs/img/grafico_presupuesto_fase1.svg)](docs/presupuesto_detallado.md) |
+
+### 5.2 Desglose Sintético por Fases
 
 #### Fase 1: Consolidación Técnica y Certificación Sanitaria ($39,710 MXN / ~$2,147 USD)
 * **Batería de análisis en laboratorio EMA (NOM-127-SSA1-2021):** $13,500 MXN.
@@ -223,12 +225,15 @@ aguadegia/
 │   └── img/                        # Galería fotográfica y clips animados de campo
 │       ├── portada_pozo_actual_2026.jpg
 │       ├── 01_reconocimiento_farallon_lloraderos.jpg
+│       ├── 02_perforacion_aquadrill_2022.jpg
 │       ├── 03_boca_pozo_motobomba_2022.jpg
+│       ├── 04_macromedidor_flujo_k24.jpg
 │       ├── 05_aforo_nivel_columna.jpg
-│       ├── miniatura_documental_youtube.jpg
 │       ├── clip_perforacion_patio.webp
 │       ├── clip_chorro_agua_aquadrill.webp
-│       └── clip_bioensayo_langostinos.webp
+│       ├── clip_bioensayo_langostinos.webp
+│       ├── grafico_presupuesto_fase1.svg
+│       └── grafico_metas_acumuladas.svg
 ├── hardware/
 │   └── config.example.h            # Plantilla C++ con pinout ESP32, MQTT y umbrales sin credenciales
 └── lab/

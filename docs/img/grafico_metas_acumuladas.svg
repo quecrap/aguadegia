@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 480" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070d18"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Card -->
+  <rect x="2" y="2" width="816" height="476" rx="16" fill="url(#bgGrad2)" stroke="#1e293b" stroke-width="2"/>
+  
+  <!-- Header -->
+  <text x="40" y="44" fill="#00e5ff" font-size="18" font-family="'Outfit', system-ui, sans-serif" font-weight="700" letter-spacing="1">ESCALABILIDAD Y METAS DE FINANCIAMIENTO POR FASES</text>
+  <text x="40" y="68" fill="#64748b" font-size="13" font-family="'Plus Jakarta Sans', system-ui, sans-serif">Presupuesto total programado para consolidar la Red Centinela Comunitaria</text>
+  <line x1="40" y1="84" x2="780" y2="84" stroke="#1e293b" stroke-width="1"/>
+  
+  <!-- Bars -->
+
+    <g transform="translate(40, 120)">
+      <text x="0" y="0" fill="#f8fafc" font-size="14" font-family="'Outfit', sans-serif" font-weight="600">Fase 1: Consolidación Piloto</text>
+      <text x="740" y="0" text-anchor="end" fill="#00e5ff" font-size="14" font-family="'JetBrains Mono', monospace" font-weight="700">$39,710.00 MXN <tspan fill="#64748b" font-size="12">(~$2,206 USD)</tspan></text>
+      
+      <!-- Background track -->
+      <rect x="0" y="10" width="560" height="22" rx="6" fill="#1e293b" opacity="0.6"/>
+      <!-- Progress Bar -->
+      <rect x="0" y="10" width="204.23874999999998" height="22" rx="6" fill="#00e5ff" opacity="0.9"/>
+      
+      <!-- Detail line -->
+      <text x="0" y="48" fill="#94a3b8" font-size="12" font-family="'Plus Jakarta Sans', sans-serif">🔑 Lab EMA NOM-127, RO Rotoplas 300100, Kit IoT ESP32, activo cuadrilla</text>
+    </g>
+    <g transform="translate(40, 215)">
+      <text x="0" y="0" fill="#f8fafc" font-size="14" font-family="'Outfit', sans-serif" font-weight="600">Fase 2: Red Centinela (3 Nodos)</text>
+      <text x="740" y="0" text-anchor="end" fill="#10b981" font-size="14" font-family="'JetBrains Mono', monospace" font-weight="700">$89,120.00 MXN <tspan fill="#64748b" font-size="12">(~$4,951 USD)</tspan></text>
+      
+      <!-- Background track -->
+      <rect x="0" y="10" width="560" height="22" rx="6" fill="#1e293b" opacity="0.6"/>
+      <!-- Progress Bar -->
+      <rect x="0" y="10" width="333.94000000000005" height="22" rx="6" fill="#10b981" opacity="0.9"/>
+      
+      <!-- Detail line -->
+      <text x="0" y="48" fill="#94a3b8" font-size="12" font-family="'Plus Jakarta Sans', sans-serif">🔑 3 pozos de alivio, energía solar off-grid, módem celular NB-IoT, lab multicuenca</text>
+    </g>
+    <g transform="translate(40, 310)">
+      <text x="0" y="0" fill="#f8fafc" font-size="14" font-family="'Outfit', sans-serif" font-weight="600">Fase 3: Integración Científica & CONAGUA</text>
+      <text x="740" y="0" text-anchor="end" fill="#3b82f6" font-size="14" font-family="'JetBrains Mono', monospace" font-weight="700">$148,500.00 MXN <tspan fill="#64748b" font-size="12">(~$8,250 USD)</tspan></text>
+      
+      <!-- Background track -->
+      <rect x="0" y="10" width="560" height="22" rx="6" fill="#1e293b" opacity="0.6"/>
+      <!-- Progress Bar -->
+      <rect x="0" y="10" width="489.8125" height="22" rx="6" fill="#3b82f6" opacity="0.9"/>
+      
+      <!-- Detail line -->
+      <text x="0" y="48" fill="#94a3b8" font-size="12" font-family="'Plus Jakarta Sans', sans-serif">🔑 Convenio modelación CICESE, portal API datos abiertos, registro piezométrico</text>
+    </g>
+  
+  <!-- Bottom Total Card -->
+  <g transform="translate(40, 400)">
+    <rect x="0" y="0" width="740" height="54" rx="10" fill="#0b1120" stroke="#334155" stroke-width="1"/>
+    <text x="24" y="32" fill="#f8fafc" font-size="14" font-family="'Outfit', sans-serif" font-weight="700">INVERSIÓN TOTAL ACUMULADA (3 FASES):</text>
+    <text x="716" y="34" text-anchor="end" fill="#00e5ff" font-size="20" font-family="'JetBrains Mono', monospace" font-weight="800">$277,330.00 MXN <tspan fill="#64748b" font-size="13">(~$15,407 USD)</tspan></text>
+  </g>
+</svg>
